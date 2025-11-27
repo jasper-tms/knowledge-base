@@ -1,2 +1,2 @@
 # Knowledge Base
-See the [Wiki](https://github.com/jasper-tms/knowledge-base/wiki) for this repo's content.
+See the [Wiki](../wiki) for this repo's content.
